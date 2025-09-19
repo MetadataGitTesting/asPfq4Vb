@@ -1,0 +1,58 @@
+name: hershel.weissnat
+description: time-frame
+version: 4.7.686
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: hershelweissnat
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:27:26'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:27:26'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:27:26.048959Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1135195991'
+  createdAt: '2025-09-19T23:27:26.048959Z'
+  type: plibMaven
+projectDependencies:
+  '142':
+    projectUID: 142
+    projectName: nena.macejkovic
+    repositoryPath: gitUri=http://gitserver:3000/dev_Ia2hP71i_team_347/dev_Ia2hP71i_project_142.git&subPath=
+    version: nena.macejkovic/0.4.4.732
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:27:25'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
